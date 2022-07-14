@@ -1,4 +1,8 @@
 export default function App(){
-    return
-    <h1>return form appjs</h1>
+    const name = "Aditya";
+    const age = 26;
+    const address = "gkp" 
+    const phone = 7788675456
+    
+    
 }
